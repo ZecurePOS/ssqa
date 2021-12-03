@@ -1,2 +1,2 @@
 # ssqa
-ZecurePOS Security and Quality Assurance 
+Software Security and Quality Assurance for ZecurePOS. 
