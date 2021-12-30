@@ -1,0 +1,14 @@
+{
+  "name": "zecurepos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "configuration.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chakram": "^1.5.0"
+  }
+}
